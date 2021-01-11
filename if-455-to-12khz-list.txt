@@ -1,0 +1,56 @@
+455kHz to 12kHz converter part list.
+  
+Part	Value         	Description
+  C101	10nF          	Ceramic Capacitor
+  C102	100pF         	Ceramic Capacitor
+  C103	3n3           	Ceramic Capacitor
+  C104	100uFx16V       Electrolytic Capacitor
+  C105	100nF         	Ceramic Capacitor
+  C201	2.2uFx16V       Electrolytic Capacitor
+  C202	560pF         	Ceramic Capacitor
+  C203	2.2uFx16V       Electrolytic Capacitor
+  C204	10uFx16V        Electrolytic Capacitor
+  C205	100nF         	Ceramic Capacitor
+  C301	27pF          	Ceramic Capacitor
+  C302	27pF          	Ceramic Capacitor
+  C303	100pF         	Ceramic Capacitor
+  C304	100nF         	Ceramic Capacitor
+  C305	1nF           	Ceramic Capacitor
+  C306	1nF           	Ceramic Capacitor
+  C307	1nF           	Ceramic Capacitor
+  C308	100pF         	Ceramic Capacitor
+  C401	100uFx16V       Electrolytic Capacitor
+  C402	100nF         	Ceramic Capacitor
+  C403	100nF         	Ceramic Capacitor
+  C404	100nF         	Ceramic Capacitor
+  C405	10uFx16V        Electrolytic Capacitor
+ CV101	40pF          	Ceramic Trimmer
+ CX101	3n3           	Only for TA7358AP - Ceramic Capacitor
+  D401	1N4007        	Diode
+ IC101	LA1186N       	Or TA7358AP - FM RF Front End.
+ IC201	LM1458N       	Dual OpAmp
+ IC301	DIL16         	74HC4017 or 74HC4040 
+                        (according to the chosen crystal, see schematic)
+ IC401	78L05         	Voltage regulator
+  J101	1503_09       	3.5mm Jack
+  J202	1503_09       	3.5mm Jack
+  J401	JACK-PLUG0    	Power Jack
+  L401/L402	            Common mode choke, bifilar winding on ferrite toroid
+  Q301	KSP2222A      	NPN Transistor
+  R101	1k5           	Resistor 1/8W
+  R102	(560)         	390Ohms for TA7358AP Resistor 1/8W
+  R103	1k            	Resistor 1/8W
+  R201	10k           	Resistor 1/8W
+  R202	4k7           	Resistor 1/8W
+  R203	4k7           	Resistor 1/8W
+  R301	220k          	Resistor 1/8W
+  R302	560           	Resistor 1/8W
+  R303	3k9           	Resistor 1/8W
+  R304	220k          	Resistor 1/8W
+  R305	330           	Resistor 1/8W
+  R306	330           	Resistor 1/8W
+  R307	330           	Resistor 1/8W
+  R401	22            	Resistor 1/8W
+  X301	MHz           	PAL 4.433619MHz, PAL-M 3.575611MHz or
+                        NTSC 3.579545Mhz Chroma Crystal.
+
